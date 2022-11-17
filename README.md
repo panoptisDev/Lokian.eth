@@ -2,6 +2,10 @@
 * Lokians (LOK) 10.000 https://mumbai.polygonscan.com/token/0x4D44e499CE3eE0C5Fb28777a1FC2266E7607b942
 * Lokian Items ERC1155 https://mumbai.polygonscan.com/address/0xB72866C1CA1BB3035d02567A09C58657f73968C2
 * CryptoMons https://mumbai.polygonscan.com/address/0xB7B0D4d98902a764a44DA5Ce3967499F55F7D015
+* 0x4D44e499CE3eE0C5Fb28777a1FC2266E7607b942
+* 0xB72866C1CA1BB3035d02567A09C58657f73968C2
+* 0xB7B0D4d98902a764a44DA5Ce3967499F55F7D015
+
 # Lokian.eth: A trading card game dapp featuring NFT monsters (Turing Monsters), share, fight and breed in solidity blockchains (L2 Boba Network).
 
  <img src="./screenshots/project.eth.ss2.png" alt="" width="1000em" height="500em">
