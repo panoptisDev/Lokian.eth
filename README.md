@@ -1,3 +1,7 @@
+## Deployed Contracts on mumbai
+* Lokians (LOK) 10.000 https://mumbai.polygonscan.com/token/0x4D44e499CE3eE0C5Fb28777a1FC2266E7607b942
+* 
+* 
 # Lokian.eth: A trading card game dapp featuring NFT monsters (Turing Monsters), share, fight and breed in solidity blockchains (L2 Boba Network).
 
  <img src="./screenshots/project.eth.ss2.png" alt="" width="1000em" height="500em">
